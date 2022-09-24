@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zehra Güler</h1>
-<h3 align="center">I graduated from Istanbul Bilgi University, department of computer engineering.</h3>
+<h3 align="center">I graduated from Istanbul Bilgi University, department of computer engineering. I am interested in data analysis. I had the
+opportunity to develop projects in the field of both web and artificial intelligence</h3>
 
 - 🔭 I’m currently working in **Python**
 
